@@ -1,5 +1,5 @@
 # Description
-# ===========
+# ============
 # This workflow is triggered each time
 # commits are pushed to GitHub or a pull request is opened.
 # It launches three jobs in parallel : a build with java 8,
